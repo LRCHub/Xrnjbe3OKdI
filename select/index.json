@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "そういえばさ",
+  "base_artist": "lil soft tennis",
+  "createdAt": "2026-03-06T13:35:29.548820Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "0.「そういえばさ、サンタさんはプレゼント貰えないのかな？（序章）」",
+      "artist": "ろまあぽ",
+      "has_synced": true,
+      "path": "select/01_0.「そういえばさ、サンタさんはプレゼント貰えないのかな_(序章)」_ろまあぽ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "そういえばさ",
+      "artist": "lil soft tennis",
+      "has_synced": false,
+      "path": "select/pl_01_そういえばさ_lil_soft_tennis.txt"
+    }
+  ]
+}
